@@ -1,6 +1,13 @@
 body {
   background-image: url("/images/Rectangle 11.png");
   height: 100vh;
+  background: linear-gradient(
+    68deg,
+    rgba(255, 238, 203, 0.9728933809852066) 0%,
+    rgba(255, 255, 255, 1) 59%,
+    rgba(244, 244, 244, 1) 73%,
+    rgba(207, 255, 252, 1) 100%
+  );
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
