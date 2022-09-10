@@ -150,14 +150,17 @@ body {
 #ellipse1:hover {
   cursor: pointer;
   transform: scale(1.2);
+  z-index: 1;
 }
 #ellipse2:hover {
   cursor: pointer;
   transform: scale(1.2);
+  z-index: 1;
 }
 #ellipse3:hover {
   cursor: pointer;
   transform: scale(1.2);
+  z-index: 1;
 }
 #zigzag {
   box-sizing: border-box;
